@@ -2,6 +2,7 @@ require 'swagger/blocks/root'
 require 'swagger/blocks/internal_helpers'
 require 'swagger/blocks/class_methods'
 require 'swagger/blocks/errors'
+require 'swagger/utils'
 
 module Swagger
   module Blocks
